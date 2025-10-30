@@ -3,4 +3,4 @@
 
 •Implemented a solution using Python and the PyTorch framework. Utilized a Neural Network for feature extraction and the K-Means algorithm. 
 
-![Alt text for the image](media/Screenshot 2025-10-30 151032.png)
+![Alt text for the image](media/OSR.png)
